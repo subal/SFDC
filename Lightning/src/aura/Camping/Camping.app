@@ -1,6 +1,6 @@
 <aura:application >
 	
-    
+    <!-- Test from eclipse -->
     <!-- Include the SLDS static resource (adjust to match package version) -->
     <ltng:require styles="/resource/SLDS201/assets/styles/salesforce-lightning-design-system.css"/>
  
